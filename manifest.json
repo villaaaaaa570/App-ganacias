@@ -1,0 +1,9 @@
+{
+  "name": "ShineZone Detail — Ganancias",
+  "short_name": "Ganancias",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050b10",
+  "theme_color": "#ffd928",
+  "icons": [{"src": "icon-1024.png","sizes": "1024x1024","type": "image/png"}]
+}
